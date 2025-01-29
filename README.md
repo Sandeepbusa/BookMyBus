@@ -1,4 +1,4 @@
-Welcome to the Book MY Bus project! This Java-based application simulates an online bus booking system, providing users with functionalities such as user registration, login, journey booking, rescheduling bookings, and unlocking accounts. The project demonstrates various Java concepts, including file handling, database integration, exception handling, and object-oriented programming.
+Welcome to the Book My Bus project! This Java-based application simulates an online bus booking system, providing users with functionalities such as user registration, login, journey booking, rescheduling bookings, and unlocking accounts. The project demonstrates various Java concepts, including file handling, database integration, exception handling, and object-oriented programming.
 
 Features:
 User Registration: Users can register by providing their details.
